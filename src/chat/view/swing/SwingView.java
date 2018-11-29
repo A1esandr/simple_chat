@@ -1,4 +1,4 @@
-package chat.view;
+package chat.view.swing;
 
 public class SwingView {
 

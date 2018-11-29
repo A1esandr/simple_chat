@@ -1,6 +1,6 @@
 package chat.app;
 
-import chat.view.SwingView;
+import chat.view.swing.SwingView;
 
 public class App {
 
